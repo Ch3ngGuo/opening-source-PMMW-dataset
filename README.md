@@ -1,6 +1,6 @@
 # Opening source PMMW dataset
 
-The open source PMMW dataset is a dataset containing 4543 images of human security screening. We made the dataset for this paper based on the Microsoft COCO dataset format.
+The open source PMMW dataset is a dataset containing 4543 images of human security screening, which will be released soon after our article is accepted. We made the dataset for this paper based on the Microsoft COCO dataset format. 
 
 ![PWC](https://github.com/Ch3ngguo/opening-source-PMMW-dataset/blob/main/figs/fig_ground_truth.png)
 
