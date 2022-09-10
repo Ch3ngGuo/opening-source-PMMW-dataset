@@ -10,4 +10,4 @@ The dataset we provide that interfaces well with the COCO API, providing future 
 
 A short schematic about our dataset is shown below:
 
-<title="" alt="" data-align="center">
+[![PWC](https://github.com/Ch3ngguo/opening-source-PMMW-dataset/blob/main/figs/fig_Experi_human.png)]
