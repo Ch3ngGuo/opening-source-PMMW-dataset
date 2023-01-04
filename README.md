@@ -20,7 +20,7 @@ A short schematic about our dataset is shown below:
 
 If you use the OpenPMMW dataset in your work, please cite it as:
 
-APA-style citation: "Cheng Guo, Fei Hu, Yan Hu. OConcealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer, 2022. Available from https://github.com/Ch3ngguo/opening-source-PMMW-dataset".
+APA-style citation: "Cheng Guo, Fei Hu, Yan Hu. Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer, 2022. Available from https://github.com/Ch3ngguo/opening-source-PMMW-dataset".
 
 BibTeX
 ```
